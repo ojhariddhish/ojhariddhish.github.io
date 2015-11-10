@@ -1,0 +1,60 @@
+# Site settings
+title: Riddhish Ojha
+email: ojha.riddhish@gmail.com
+url: https://ojhariddhish.github.io
+description: "Android Developer by day and dreamer by night. Confused all the time!"
+skills: "Android Developer - Java - Researcher"
+meta_author: Riddhish Ojha
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Riddhish Ojha
+  location: Location
+  social: Elsewhere
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: stack-overflow
+    url: http://stackoverflow.com/users/2421688/riddhish-ojha
+  - title: github
+    url: https://github.com/ojhariddhish
+  - title: bitbucket
+    url: https://bitbucket.org/ojhariddhish
+  - title: google-plus
+    url: https://www.google.com/+RiddhishOjha
+  - title: twitter
+    url: https://twitter.com/ojha_riddhish
+  - title: facebook
+    url: https://www.facebook.com/ojha.riddhish
+  - title: linkedin
+    url: https://in.linkedin.com/in/riddhishojha
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Mira Road, Thane
+  - line: Maharashtra, India
+
+# Credits content
+credits: 'Powered By: <a href="http://startbootstrap.com/template-overviews/freelancer/">Freelancer</a><br>Hosted On: <a href="https://pages.github.com/">GitHub Pages</a>'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
