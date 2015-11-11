@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2015-03-08
 img: fitho.png
 alt: image-alt
@@ -10,6 +10,6 @@ client-website: http://www.fitho.in
 google-play: Google Play
 google-play-website: https://play.google.com/store/apps/details?id=com.fitho.app
 category: Android App Development
-description: FitHo is an intelligent weight loss / diet plan app that simplifies the process of weight loss by providing you with effective guidance on diet and workouts daily. 
+description: FitHo is an intelligent weight loss / diet plan app that simplifies the process of weight loss by providing you with effective guidance on diet and workouts daily.
 
 ---

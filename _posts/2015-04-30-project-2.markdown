@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2015-04-30
+img: mcommerce.png
+alt: image-alt
+project-date: April 2015
+client: LetsGoMo
+client-website: http://www.letsgomo.com
+category: Android SDK Development
+description: Client required my services in one of their projects, mCommerce. It was an ecommerce SDK project. They were planning to develop this sdk which could then support numerous mobile applications. I developed all the UI layouts and integrated their backend APIs along with Facebook & Google+ logins. I also wrote few behaviors for product navigation.
+
+---

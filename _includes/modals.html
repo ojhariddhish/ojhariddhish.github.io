@@ -17,10 +17,7 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
-                               <li>Download:
-                                   <strong><a href="{{ post.google-play-website }}">{{ post.google-play }}</a>
-                                   </strong>
-                               </li>
+
                                 <li>Client:
                                     <strong><a href="{{ post.client-website }}">{{ post.client }}</a>
                                     </strong>
@@ -31,6 +28,10 @@
                                 </li>
                                 <li>Service:
                                     <strong>{{ post.category }}
+                                    </strong>
+                                </li>
+                                <li>
+                                    <strong><a href="{{ post.google-play-website }}">{{ post.google-play }}</a>
                                     </strong>
                                 </li>
                             </ul>

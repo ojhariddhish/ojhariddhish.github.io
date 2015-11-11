@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2015-09-10
+img: rixa_app.png
+alt: image-alt
+project-date: September 2015
+client: Rixa App
+client-website: http://www.rixaapp.com
+category: Platform Development
+description: Worked in a team to develop a platform for efficient delivery model. Discussed and architected the platform with colleagues in the client's company. Brian-stormed the backend database schema, APIs and the mobile app workflow. I had started work on the consumer frontend app for Android and about 50% was completed when the bureaucracy changed and my contract was terminated from the old company. This platform was supposed to be applied on the auto-rickshaw and the courier service industry in India. I can show the designs, if required.
+
+---
