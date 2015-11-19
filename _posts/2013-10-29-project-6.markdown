@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+date: 2013-10-29
+img: reviews.png
+alt: image-alt
+project-date: October 2013
+client: Rajesh Ramchandani
+client-website: https://www.linkedin.com/in/ramchandani
+category: Android App Development
+description: Client required to develop a platform where users can review and rate the restaurants they visit. I worked in a team to develop the Android app. The platform was never released due to reasons not disclosed to me.
+
+---

@@ -10,6 +10,6 @@ client-website: http://www.gingercube.com
 google-play: Google Play
 google-play-website: https://play.google.com/store/apps/details?id=com.gingercubeinc.maxrvu
 category: Android App Development
-description: maxRVU is a point of service charge capture application for the American physicians, hospitals and even resident doctors.
+description: maxRVU is a point of service charge capture application for the American physicians, hospitals and even resident doctors. I started work on this app in December 2011 and the client used my company's and my services to work on this app until September 2014. 
 
 ---
