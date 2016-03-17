@@ -7,6 +7,8 @@ alt: image-alt
 project-date: January 2014
 client: Treetins
 client-website: https://www.facebook.com/Treetins
+youtube-flow: YouTube
+youtube-flow-website: https://youtu.be/WeY-UHebtCg
 category: Android App Development
 description: Treetins was a social networking platform enabling strangers to meet. The app was completed but the client couldn't manage the funding so it was never released.
 
