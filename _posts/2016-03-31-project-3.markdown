@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 3
+date: 2016-03-31
+img: androiddevforhire.png
+alt: image-alt
+project-date: March 2016
+client: Personal App
+client-website: https://ojhariddhish.github.io/
+google-play: Google Play
+google-play-website: https://play.google.com/store/apps/details?id=com.dnsoftindia.riddhishojha
+category: App Development
+description: This is my app curriculum vitae. It enables the users to know me a little more through the platform they like. Potential clients can see my past work & experience and connect with me using my social profiles in the app. Also, it saves a lot of paper to have virtual resumes.
+
+---

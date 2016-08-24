@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 4
+date: 2016-02-15
+img: quoteoftheday.png
+alt: image-alt
+project-date: February 2016
+client: Personal App
+client-website: https://ojhariddhish.github.io/
+google-play: Google Play
+google-play-website: https://play.google.com/store/apps/details?id=com.dnsoftindia.quoteoftheday
+category: App Development
+description: App features famous quotes by famous people all around the world to inspire and motivate.
+
+---

@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 2
+date: 2016-08-18
+img: statesoftheworld.png
+alt: image-alt
+project-date: August 2016
+client: Personal App
+client-website: https://ojhariddhish.github.io/
+google-play: Google Play
+google-play-website: https://play.google.com/store/apps/details?id=com.dnsoftindia.statesoftheworld
+youtube-flow: YouTube
+youtube-flow-website: https://www.youtube.com/watch?v=glnWwE7HDxA
+category: App Development
+description: States Of The World app features almost all the countries, territories and states on our Earth with details for each state. It also shows the basic emergency numbers for each state wherever available to help you, if ever required.
+
+---

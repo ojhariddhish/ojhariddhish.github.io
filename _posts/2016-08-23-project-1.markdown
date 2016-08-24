@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 1
+date: 2016-08-23
+img: a1000colorsinenglish.png
+alt: image-alt
+project-date: August 2016
+client: Personal App
+client-website: https://ojhariddhish.github.io/
+google-play: Google Play
+google-play-website: https://play.google.com/store/apps/details?id=com.dnsoftindia.a1000colorsinenglish
+youtube-flow: YouTube
+youtube-flow-website: https://www.youtube.com/watch?v=AfFnk3eXXC0
+category: App Development
+description: 1000+ Colors In English is an app to help your kids learn about colors and map them with their names in English language. It also pronounces the names if you want, so your child can learn effectively.
+
+---

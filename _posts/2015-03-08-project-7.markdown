@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 7
+date: 2015-03-08
+img: fitho.png
+alt: image-alt
+project-date: March 2015
+client: FitHo
+client-website: http://www.fitho.in
+google-play: Google Play
+google-play-website: https://play.google.com/store/apps/details?id=com.fitho.app
+youtube-flow: YouTube
+youtube-flow-website: https://www.youtube.com/watch?v=6iggfuSa6xU
+category: Android App Development
+description: FitHo was an intelligent weight loss / diet plan app that simplified the process of weight loss by providing you with effective guidance on diet and workouts daily. The company was acquired by Practo (https://www.practo.in) in the last quarter of 2015 and now the app is not live anymore. 
+
+---
